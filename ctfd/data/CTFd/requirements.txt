@@ -10,7 +10,7 @@ attrs==20.3.0             # via jsonschema
 bcrypt==3.1.7             # via -r requirements.in
 boto3==1.13.9             # via -r requirements.in
 botocore==1.16.26         # via boto3, s3transfer
-certifi==2020.11.8        # via requests
+certifi==2023.7.22        # via requests
 cffi==1.14.3              # via bcrypt, cmarkgfm, pybluemonday
 chardet==3.0.4            # via requests
 click==7.1.2              # via flask
