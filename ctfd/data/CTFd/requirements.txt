@@ -27,7 +27,7 @@ flask==1.1.2              # via -r requirements.in, flask-caching, flask-marshma
 gevent==20.9.0            # via -r requirements.in
 greenlet==0.4.17          # via gevent
 gunicorn==20.0.4          # via -r requirements.in
-idna==2.10                # via requests
+idna==3.7                # via requests
 importlib-metadata==3.7.3  # via jsonschema
 itsdangerous==1.1.0       # via -r requirements.in, flask
 jinja2==2.11.3            # via -r requirements.in, flask
