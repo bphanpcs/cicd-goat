@@ -42,7 +42,7 @@ passlib==1.7.2            # via -r requirements.in
 pybluemonday==0.0.7       # via -r requirements.in
 pycparser==2.20           # via cffi
 pydantic==1.6.2           # via -r requirements.in
-pymysql==0.9.3            # via -r requirements.in
+pymysql==1.1.1            # via -r requirements.in
 pyrsistent==0.17.3        # via jsonschema
 python-dateutil==2.8.1    # via alembic, botocore
 python-dotenv==0.13.0     # via -r requirements.in
@@ -50,7 +50,7 @@ python-editor==1.0.4      # via alembic
 python-geoacumen-city==0.0.1  # via -r requirements.in
 pytz==2020.4              # via flask-restx
 redis==3.5.2              # via -r requirements.in
-requests==2.23.0          # via -r requirements.in
+requests==2.32.0          # via -r requirements.in
 s3transfer==0.3.3         # via boto3
 six==1.15.0               # via bcrypt, flask-marshmallow, flask-restx, jsonschema, python-dateutil, sqlalchemy-utils, tenacity
 sqlalchemy-utils==0.36.6  # via -r requirements.in
