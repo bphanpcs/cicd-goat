@@ -60,7 +60,7 @@ typing-extensions==3.7.4.3  # via importlib-metadata
 urllib3==1.25.11          # via botocore, requests
 werkzeug==1.0.1           # via -r requirements.in, flask, flask-restx
 wtforms==2.3.1            # via -r requirements.in
-zipp==3.4.1               # via importlib-metadata
+zipp==3.19.1               # via importlib-metadata
 zope.event==4.5.0         # via gevent
 zope.interface==5.2.0     # via gevent
 
